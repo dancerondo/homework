@@ -1,0 +1,34 @@
+<style>
+
+    table {
+        border: 1px solid black;
+        margin: 0 auto;
+    }
+    tr{
+        background-color: yellow;
+        
+    }
+    td{ 
+        color: blue;
+        border: 2px solid black;
+        height: 20px;
+        text-align: right;
+    }
+    th{
+        border: 1px solid black;
+    }
+    .bg-gray{
+        background-color:rgb(168,208,141);
+    }
+    .bg-orange{
+        background-color:rgb(255,153,0);
+    }   
+    .bg-blue{
+        background-color:rgb(74,134,232);
+    }
+    .bg-like-gray{
+        background-color:rgb(234,209,219);
+    }
+
+
+</style>

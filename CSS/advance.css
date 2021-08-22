@@ -1,0 +1,28 @@
+<style>
+    table{
+        border: 1px solid black;
+        width: 100%;
+    }
+    tr{
+        border: 1px solid black;
+        
+    }
+    th{
+        border: 1px solid black;
+    }
+    td{
+        border: 1px solid black;
+    }
+   .color-title{
+       background-color: rgb(211,236,255);
+   }
+   .color-t3{
+      background-color:rgb(255,239,143)
+   }
+   .color-chieu{
+      background-color: rgb(232,242,224);
+   }
+   .color-toi{
+      background-color:rgb(223,223,223); 
+   }
+</style>
